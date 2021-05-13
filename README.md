@@ -30,7 +30,7 @@ Learning Rate – 0.01
 
 Please refer to the research paper(unpublished) Heterogeneous Human Activity Recognition with Dynamic Sensor Fusion using Deep Learning Models.pdf for futher explanation. 
 
-##Contributions:
+## Contributions:
 1. <a href= "https://github.com/BhuvaneshRavi">Bhuvaneshwaran Ravi</a>
 2. <a href= "https://github.com/serlintamilselvam">Serlin Tamilselvam</a>
 3. <a> Jayashree Srinivasan </a>
