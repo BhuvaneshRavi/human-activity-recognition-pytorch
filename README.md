@@ -17,16 +17,16 @@ Learning Rate – 0.01
 ## Model Performance and results:
 
 Model Accuracy
-![Alt text](results/accuracy_fnn.jpg "accuracy")
+![Alt text](results/accuracy_fnn.JPG "accuracy")
 
 Model Loss
-![Alt text](results/loss_fnn.jpg "loss")
+![Alt text](results/loss_fnn.JPG "loss")
 
 Confusion Matrix FNN
-![Alt text](results/confusion_matrix_fnn.jpg "confusion matrix fnn")
+![Alt text](results/confusion_matrix_fnn.JPG "confusion matrix fnn")
 
 Confusion Matrix RNN
-![Alt text](results/confusion_matrix_rnn.jpg "confusion matrix rnn")
+![Alt text](results/confusion_matrix_rnn.JPG "confusion matrix rnn")
 
 Please refer to the research paper(unpublished) Heterogeneous Human Activity Recognition with Dynamic Sensor Fusion using Deep Learning Models.pdf for futher explanation. 
 
