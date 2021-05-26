@@ -1,4 +1,4 @@
-# human-activity-recognition-pytorch
+# Prediction model for human activity recognition
 Recognise a human activity from a wide range of possiblities using a Deep Learning Neural Network
 
 ## Goal:
